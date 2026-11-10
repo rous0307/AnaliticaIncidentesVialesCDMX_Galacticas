@@ -41,8 +41,6 @@ Proyecto de BI que analiza los incidentes viales reportados al C5 de la CDMX (20
 
 Cada notebook se ejecuta de arriba hacia abajo, sin cambios manuales.
 
-**Secciones del Avance 3:** 0. Configuración · 1. Extraer · 2. Integrar · 3. Transformar · 4. Validar · 5. Guardar · 6. Conciliación · 7. Resumen · 8. Estadística descriptiva · 9. Reproducibilidad
-
 ## 📤 Salidas
 Al terminar, el notebook genera en Drive (`MyDrive/BI S&R/`):
 - `data/processed/`: datos preparados (680,687), pendientes (59), controles y resumen.
